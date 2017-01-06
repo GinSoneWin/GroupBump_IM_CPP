@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gin/ClionProjects/GroupBump_IM/test/testlog4cpp.cpp
+cstdio
+-
+memory
+-
+log4cpp/Category.hh
+/home/gin/ClionProjects/GroupBump_IM/test/log4cpp/Category.hh
+log4cpp/FileAppender.hh
+/home/gin/ClionProjects/GroupBump_IM/test/log4cpp/FileAppender.hh
+log4cpp/SimpleLayout.hh
+/home/gin/ClionProjects/GroupBump_IM/test/log4cpp/SimpleLayout.hh
+log4cpp/Configurator.hh
+/home/gin/ClionProjects/GroupBump_IM/test/log4cpp/Configurator.hh
+log4cpp/PropertyConfigurator.hh
+/home/gin/ClionProjects/GroupBump_IM/test/log4cpp/PropertyConfigurator.hh
+string
+-
+

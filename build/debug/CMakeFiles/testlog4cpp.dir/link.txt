@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -Wall    CMakeFiles/testlog4cpp.dir/test/testlog4cpp.cpp.o  -o testlog4cpp -Wl,-Bstatic -llog4cpp -Wl,-Bdynamic -lpthread -lrt 

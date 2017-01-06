@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GroupBump_IM"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GroupBump_IM_Main">
+				<Option output="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/GroupBump_IM_Main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 GroupBump_IM_Main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GroupBump_IM_Main/fast">
+				<Option output="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/GroupBump_IM_Main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 GroupBump_IM_Main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testMutex">
+				<Option output="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/testMutex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 testMutex"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testMutex/fast">
+				<Option output="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/testMutex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 testMutex/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSignal">
+				<Option output="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/testSignal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSignal"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSignal/fast">
+				<Option output="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/testSignal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSignal/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testThread">
+				<Option output="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/testThread" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 testThread"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testThread/fast">
+				<Option output="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/testThread" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 testThread/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/main.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/buffer/BasicByteBuffer.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/buffer/BasicByteBuffer.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/buffer/ByteBuffer.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/buffer/ByteBuffer.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/context/AbstractSocketConnectionContext.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/context/AbstractSocketConnectionContext.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/context/AbstractSocketConnectionMap.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/context/AbstractSocketConnectionMap.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/context/BasicSocketConnectionContext.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/context/BasicSocketConnectionContext.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/context/BasicSocketConnectionMap.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/context/BasicSocketConnectionMap.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/AbstractDemultiplexer.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/AbstractDemultiplexer.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/AbstractDispatcher.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/AbstractDispatcher.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/AbstractEventQueue.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/AbstractEventQueue.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/BasicDispatcher.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/BasicDispatcher.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/BasicEventQueue.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/BasicEventQueue.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/EpollDemultiplexer.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/dispatcher/EpollDemultiplexer.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/evhandler/AbstractEventHandler.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/evhandler/AbstractEventHandler.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/evhandler/ConnDisconnectEventHandler.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/evhandler/ConnDisconnectEventHandler.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/evhandler/ConnReadableEventHandler.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/evhandler/ConnReadableEventHandler.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/evhandler/ConnWritableEventHandler.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/evhandler/ConnWritableEventHandler.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/evhandler/NewConnEventHandler.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/evhandler/NewConnEventHandler.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/general/AbstractEvent.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/general/AbstractEvent.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/general/Event.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/general/Event.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/general/EventType.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/event/general/EventType.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/general/BasicSocketConnection.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/general/BasicSocketConnection.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/general/SocketConnection.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/general/SocketConnection.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/initializer/BasicSocketConnectionInitializer.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/initializer/BasicSocketConnectionInitializer.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/initializer/SocketConnectionInitializer.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/initializer/SocketConnectionInitializer.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/context/BasicSocketConnectionHandlerChain.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/context/BasicSocketConnectionHandlerChain.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/context/SocketConnectionHandlerChain.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/context/SocketConnectionHandlerChain.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/context/SocketConnectionHandlerContext.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/context/SocketConnectionHandlerContext.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/inbound/LengthBasedFrameDecoder.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/inbound/LengthBasedFrameDecoder.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/inbound/SocketConnectionInboundHandler.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/inbound/SocketConnectionInboundHandler.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/inbound/SocketMessageDecoder.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/inbound/SocketMessageDecoder.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/outbound/SocketConnectionOutboundHandler.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/outbound/SocketConnectionOutboundHandler.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/outbound/SocketMessageEncoder.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/connection/msghandler/outbound/SocketMessageEncoder.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/server/context/AbstractSocketServerContext.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/server/context/AbstractSocketServerContext.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/server/context/BasicSocketServerContext.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/connector_layer/server/context/BasicSocketServerContext.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/global/global.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/global/global.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/lock/Lock.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/lock/Lock.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/lock/SemaphoreLock.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/lock/SemaphoreLock.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/logger/CodeDebugConsoleLogger.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/logger/CodeDebugConsoleLogger.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/logger/Logger.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/logger/Logger.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThread.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testMutex"/>
+			<Option target="testThread"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThread.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThreadGroup.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testMutex"/>
+			<Option target="testThread"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThreadGroup.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/BasicThreadGroup.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testMutex"/>
+			<Option target="testThread"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/BasicThreadGroup.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/BossThread.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/BossThread.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/ThreadGuard.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testMutex"/>
+			<Option target="testThread"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/ThreadGuard.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/WorkerThread.cpp">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/thread/WorkerThread.h">
+			<Option target="GroupBump_IM_Main"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/wrapper/signal.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testSignal"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/wrapper/signal_intr.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testSignal"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/wrapper/signal_rt.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testSignal"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/wrapper/signal_rt_intr.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testSignal"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/wrapper/wraplinux.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testSignal"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/wrapper/wrappthread.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testSignal"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/wrapper/wrapsock.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testSignal"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/src/util/wrapper/wrapunix.cpp">
+			<Option target="GroupBump_IM_Main"/>
+			<Option target="testSignal"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/testMutex.cpp">
+			<Option target="testMutex"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/testSignal.cpp">
+			<Option target="testSignal"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/testThread.cpp">
+			<Option target="testThread"/>
+		</Unit>
+		<Unit filename="/home/gin/ClionProjects/GroupBump_IM/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

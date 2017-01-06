@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThread.cpp
+AbstractThread.h
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThread.h
+
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThread.h
+
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThreadGroup.cpp
+AbstractThreadGroup.h
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThreadGroup.h
+
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThreadGroup.h
+thread
+-
+
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/BasicThreadGroup.cpp
+BasicThreadGroup.h
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/BasicThreadGroup.h
+
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/BasicThreadGroup.h
+vector
+-
+AbstractThreadGroup.h
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/AbstractThreadGroup.h
+
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/ThreadGuard.cpp
+ThreadGuard.h
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/ThreadGuard.h
+
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/ThreadGuard.h
+thread
+-
+
+/home/gin/ClionProjects/GroupBump_IM/testMutex.cpp
+mutex
+-
+src/util/thread/BasicThreadGroup.h
+/home/gin/ClionProjects/GroupBump_IM/src/util/thread/BasicThreadGroup.h
+

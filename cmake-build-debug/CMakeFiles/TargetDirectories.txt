@@ -1,0 +1,6 @@
+/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/CMakeFiles/GroupBump_IM_Main.dir
+/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/CMakeFiles/testMutex.dir
+/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/CMakeFiles/testSignal.dir
+/home/gin/ClionProjects/GroupBump_IM/cmake-build-debug/CMakeFiles/testThread.dir

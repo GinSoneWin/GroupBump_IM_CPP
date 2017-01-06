@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gin/ClionProjects/GroupBump_IM/main.cpp
+iostream
+-
+
+/home/gin/ClionProjects/GroupBump_IM/src/global/global.cpp
+
